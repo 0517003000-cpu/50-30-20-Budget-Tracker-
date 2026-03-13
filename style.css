@@ -1,0 +1,54 @@
+body{
+font-family:Arial;
+background:#f4f4f4;
+padding:20px;
+}
+
+h1{
+text-align:center;
+}
+
+.top{
+margin:auto;
+margin-bottom:20px;
+border-collapse:collapse;
+}
+
+.top th{
+background:black;
+color:white;
+padding:8px;
+}
+
+.top td{
+border:1px solid black;
+padding:8px;
+}
+
+.container{
+display:flex;
+gap:20px;
+justify-content:space-between;
+}
+
+.budget{
+border-collapse:collapse;
+background:white;
+width:32%;
+}
+
+.budget th{
+background:black;
+color:white;
+padding:8px;
+}
+
+.budget td{
+border:1px solid black;
+padding:6px;
+}
+
+.calculator{
+text-align:center;
+margin-bottom:20px;
+}
